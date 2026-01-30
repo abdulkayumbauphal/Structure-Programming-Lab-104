@@ -2,8 +2,8 @@
 
 Topic coverd:  
 
-1.Input_Output  
-2.Operator  
+  1.Input_Output  
+  2.Operator  
 
 Programs covered:
 1. Hello World
