@@ -1,10 +1,9 @@
-## Class 01
+## Topics Covered
 
-Topic coverd:  
+1. Input & Output  
+2. Operator  
 
-  1.Input_Output  
-  2.Operator  
+## Programs Covered
 
-Programs covered:
-1. Hello World
-2. Sum of two numbers
+1. Hello World  
+2. Sum of two numbers  
