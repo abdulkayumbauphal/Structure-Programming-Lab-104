@@ -3,7 +3,6 @@
 Topic coverd:  
 
 1.Input_Output  
-
 2.Operator  
 
 Programs covered:
